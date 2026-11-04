@@ -5,8 +5,6 @@ Dashboard interattiva in Python per monitorare le prestazioni di un'azienda oliv
 Progetto sviluppato come **Project Work di laurea** in Informatica per le Aziende Digitali (L-31), Università Telematica Pegaso.
 Tema: *La digitalizzazione dell'impresa*. Traccia: *Sviluppo di una dashboard in Python per l'analisi delle prestazioni aziendali nel settore primario*.
 
-<!-- Quando avrai caricato uno screenshot in docs/screenshot.png, togli i commenti dalla riga sotto -->
-<!-- ![Anteprima della dashboard](docs/screenshot.png) -->
 
 ## Cosa fa
 
